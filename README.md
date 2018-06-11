@@ -1,4 +1,4 @@
-# javascript_functions
+# javascript "solutions"
 
 ```javascript
 //-- only numbers
